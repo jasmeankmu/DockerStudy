@@ -1,0 +1,7 @@
+coverage
+Django
+flake8
+psycopg2-binary
+pytest
+pytest-cov
+requests

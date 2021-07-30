@@ -1,16 +1,16 @@
 # Docker 실습
 
 [도커 개념](./README.md)  
-[1.Docker file](#1.Docker-file)  
-[2.DockerFile 기본 명령어](#2.DockerFile-기본-명령어)  
+[1.Docker file](#1.docker-file)  
+[2.DockerFile 기본 명령어](#2.dockerfile-기본-명령어)  
 [3.도커 기본 명령어](#3.도커-기본-명령어)  
-[4.Docker Compose](#4.Docker-Compose)  
-[5.Docker compose 문법](#5.Docker-compose-문법)  
+[4.Docker Compose](#4.docker-compose)  
+[5.Docker compose 문법](#5.docker-compose-문법)  
 [6.network](#6.network)
 
 <p align="center"> <img src = "./Readmeimg/docker.png" style="width:50vw"> </img> </p>
 
-## 1.Docker file
+## 1.docker file
 
 ```dockerfile
 FROM python:3.8.5-alpine
@@ -274,7 +274,7 @@ networks:
 
 - 9.links
     - ​ docker run에서 –link 옵션이랑 동일
-ㅛ
+
 - 10.command
     - docker run으로 앱 컨테이너를 실행하는 command 
 
