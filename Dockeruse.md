@@ -175,7 +175,7 @@ docker exec [OPTIONS] CONTAINER COMMAND [ARG...]
 
 - Docker Compose에서 컨테이너 들간의 옵션과 의존성을 모두 docker-compose.yml 파일에 적어두고, 컴포즈용 명령어를 사용해 컨테이덜을 실행, 관리 
 
-<p align="center"> <img srcset = "./Readmeimg/docker-compose.png"> </img> </p>
+<p align="center"> <img src = "./Readmeimg/docker-compose.png"> </img> </p>
 
 > express , nginx , mysql , redis를 연결한 모양 
 ```yaml
