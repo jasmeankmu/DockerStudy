@@ -8,7 +8,7 @@
 [5.Docker compose 문법](#5.Docker-compose-문법)  
 [6.network](#6.network)
 
-<p align="center"> <img srcset = "./Readmeimg/docker.png" style="width:50vw"> </img> </p>
+<p align="center"> <img src = "./Readmeimg/docker.png" style="width:50vw"> </img> </p>
 
 ## 1.Docker file
 
