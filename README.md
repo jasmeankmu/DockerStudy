@@ -14,7 +14,7 @@
 
 
 ## 1.Docker란 무엇일까?
-<p align="center"> <img srcset = "./Readmeimg/docker.png" style="width:50vw"> </img> </p>
+<p align="center"> <img src = "./Readmeimg/docker.png" style="width:50vw"> </img> </p>
 
 
 - 문서: 예전에는 서버를 운영하기 위해 문서에 운영방법을 적고 사용했었지만, 시간이 지나면서 문서의 정확성, 서버의 업데이트에 관련된 이력드를 관리하기가 힘들어지기 시작
@@ -31,7 +31,7 @@
 ## 2.가상머신 vs 도커
 
 
-<p align="center"> <img srcset = "./Readmeimg/virtualvsdocker.png" > </img> </p>
+<p align="center"> <img src = "./Readmeimg/virtualvsdocker.png" > </img> </p>
 
 - 위 그림은 가상머신과 도커의 차이를 나타내는 것이다.
 
@@ -69,7 +69,7 @@
 
 ## 4.도커의 아키텍쳐
 
-<p align="center"> <img srcset = "./Readmeimg/Architecture.png" > </img> </p>
+<p align="center"> <img src = "./Readmeimg/Architecture.png" > </img> </p>
 
 > Docker는 Client - Sever 아키텍쳐로 Docker 클라이언트와 도커 데몬이 REST 통신을 통해 통신
 
